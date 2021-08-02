@@ -1,0 +1,10 @@
+.iframe-blur {
+	height: 70px;
+	width: 200px;
+	position: absolute;
+	backdrop-filter: blur(10px);
+}
+
+.iframe-img {
+	border: 2px solid var(--clr-coral-1);
+}

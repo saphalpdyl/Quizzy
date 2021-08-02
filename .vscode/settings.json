@@ -1,0 +1,38 @@
+{
+	"emmet.excludeLanguages": ["markdown"],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"typescript": "typescriptreact"
+	},
+	"emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+	"editor.quickSuggestionsDelay": 0,
+	"editor.snippetSuggestions": "top",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"material-icon-theme.folders.associations": {
+		"firebase": "Firebase"
+	},
+	"material-icon-theme.files.associations": {
+		"package-lock.json": "Nodejs_alt",
+		"firebase.ts": "Firebase",
+		"firebase.js": "Firebase",
+		"*.styled.ts": "Maven",
+		"*.styled.js": "Maven",
+		"*.rules": "Firebase"
+	},
+	"material-icon-theme.folders.color": "#fdd835",
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "compressed",
+			"extensionName": ".min.css",
+			"savePath": "~/css/",
+			"savePathSegmentKeys": null,
+			"savePathReplaceSegmentsWith": null
+		}
+	],
+	"editor.fontFamily": "Cascadia Code , Source Code Pro , Consolas",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"prettier.useTabs": true
+}
