@@ -1,40 +1,12 @@
-import React, { useState } from "react";
-import { useSelector, RootStateOrAny } from "react-redux";
+import React from "react";
 
-//components
-import TravelQuestion from "./TravelQuestion";
-
-//styled comps
-import {
-	TravelContainer,
-	TravelQuestionListContainer,
-	TravelTitle,
-} from "./Travel.styled";
+//comps
+import QuestionList from "../../common/reveal_questions/QuestionList";
 
 export interface TravelProps {}
 
-/**
- * @author Cheyatz
- * @description Travel Round Questions , Each question is a object with property [source] and [place] for the api link and place name respectively
- */
 const Travel: React.FC<TravelProps> = () => {
-	const [travelQuestionData, setTravelQuestionData]: [travelData[], Function] =
-		useState([]);
-
-	useSelector((state: RootStateOrAny) => state.trvQues).then(
-		(data: travelData) => setTravelQuestionData(data)
-	);
-
-	return (
-		<TravelContainer className="pages-Travel">
-			<TravelTitle>Travel Round</TravelTitle>
-			<TravelQuestionListContainer>
-				{travelQuestionData.map(({ source, place }) => (
-					<TravelQuestion source={source} place={place} />
-				))}
-			</TravelQuestionListContainer>
-		</TravelContainer>
-	);
+	return <QuestionList type="iframe" reducer="trvQues" />;
 };
 
 export default Travel;

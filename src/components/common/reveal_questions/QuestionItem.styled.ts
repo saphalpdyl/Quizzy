@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const TravelQuestionContainer = styled.div`
+export const QuestionContainer = styled.div`
 	flex: 1;
 	width: 100%;
 	display: grid;
@@ -10,7 +10,7 @@ export const TravelQuestionContainer = styled.div`
 	gap: 5rem;
 `;
 
-export const TravelAnswerRevealButton = styled.button<{
+export const AnswerRevealButton = styled.button<{
 	isHidden: boolean;
 }>`
 	margin-right: 5rem;

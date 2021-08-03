@@ -1,17 +1,12 @@
 import React from "react";
 
+//comps
+import QuestionList from "../../common/reveal_questions/QuestionList";
+
 export interface AudioProps {}
 
 const Audio: React.FC<AudioProps> = () => {
-	return (
-		<div className="pages-audio">
-			<span>Hello World - Audio</span>
-			<audio controls>
-				<source src="../../../../assets/sounds/cow.mp3" type="audio/mp3" />
-				Doesn't support doge
-			</audio>
-		</div>
-	);
+	return <QuestionList type="audio" reducer="advQues" />;
 };
 
 export default Audio;

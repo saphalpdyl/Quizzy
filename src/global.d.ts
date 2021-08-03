@@ -10,9 +10,9 @@ declare global {
 		option: string;
 		isCorrect?: boolean;
 	}
-	interface travelData {
+	interface Data {
 		source: string;
-		place: string;
+		answer: string;
 	}
 
 	interface rootAction {
