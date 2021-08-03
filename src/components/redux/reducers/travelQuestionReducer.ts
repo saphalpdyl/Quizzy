@@ -1,7 +1,7 @@
 import useFetch from "../../hooks/useFetch";
 
 export const travelQuestionReducer = (
-	state: Promise<travelData> = useFetch(
+	state: Promise<Data[]> = useFetch(
 		"http://localhost:8080/travelQuestions",
 		true
 	),
