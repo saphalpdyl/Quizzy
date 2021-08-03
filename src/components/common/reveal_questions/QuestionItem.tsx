@@ -13,7 +13,7 @@ import {
 export interface QuestionItemProps {
 	source: string;
 	answer: string;
-	type: "iframe" | "audio";
+	type: "iframe" | "audio" | "img";
 }
 
 const QuestionItem: React.FC<QuestionItemProps> = ({
@@ -30,7 +30,7 @@ const QuestionItem: React.FC<QuestionItemProps> = ({
 
 	return (
 		<QuestionContainer className="travel-question">
-			{type == "iframe" ? (
+			{type === "iframe" ? (
 				<IFrameContainer>
 					<div className="iframe-blur"></div>
 					<iframe
@@ -41,11 +41,13 @@ const QuestionItem: React.FC<QuestionItemProps> = ({
 						loading="lazy"
 					></iframe>
 				</IFrameContainer>
-			) : (
+			) : type === "audio" ? (
 				<audio controls>
 					<source src={source} type="audio/mp3" />
 					Audio not supported
 				</audio>
+			) : (
+				<img src={source} />
 			)}
 			<Button onClick={handleButtonClick} isHidden={isTextHidden}>
 				<span>{answer}</span>

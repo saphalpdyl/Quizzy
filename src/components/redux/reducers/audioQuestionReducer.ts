@@ -2,6 +2,7 @@ import cow from "../../../../assets/sounds/cow.mp3";
 import elephant from "../../../../assets/sounds/elephant.mp3";
 import frog from "../../../../assets/sounds/frog.mp3";
 import goat from "../../../../assets/sounds/goat.mp3";
+import sun from "../../../../assets/sounds/sun.wav";
 
 const AUDIO_DATA_PAYLOAD: Data[] = [
 	{
@@ -19,6 +20,10 @@ const AUDIO_DATA_PAYLOAD: Data[] = [
 	{
 		source: goat,
 		answer: "Goat",
+	},
+	{
+		source: sun,
+		answer: "Sun",
 	},
 ];
 

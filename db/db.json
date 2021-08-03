@@ -1,4 +1,10 @@
 {
+	"visualQuestions": [
+		{
+			"source": "https://example.com",
+			"answer": "Test"
+		}
+	],
 	"travelQuestions": [
 		{
 			"source": "https://www.google.com/maps/embed?pb=!4v1627883243309!6m8!1m7!1sCAoSLEFGMVFpcE04MmYwTnNnTjJubk1wWjIxOWdUaVVRV1dxdmFzNjZXRzFHNDh0!2m2!1d27.49832!2d83.2762367!3f2.720927319524165!4f4.891219620032913!5f0.7820865974627469",

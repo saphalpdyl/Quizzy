@@ -8,8 +8,8 @@ import QuestionItem from "./QuestionItem";
 import { Container, QuestionListContainer, Title } from "./QuestionList.styled";
 
 export interface QuestionListProps {
-	type: "iframe" | "audio";
-	reducer: "trvQues" | "advQues";
+	type: "iframe" | "audio" | "img";
+	reducer: "trvQues" | "advQues" | "visQues";
 }
 
 /**
@@ -25,7 +25,13 @@ const QuestionList: React.FC<QuestionListProps> = ({ type, reducer }) => {
 
 	return (
 		<Container className="pages-Travel">
-			<Title>{type == "iframe" ? "Travel Round" : "Audio Round"}</Title>
+			<Title>
+				{type === "iframe"
+					? "Travel Round"
+					: type === "audio"
+					? "Audio Round"
+					: "Visual Round"}
+			</Title>
 			<QuestionListContainer>
 				{questionData.map(({ source, answer }, index) => (
 					<QuestionItem

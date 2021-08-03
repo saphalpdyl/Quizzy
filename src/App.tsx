@@ -3,7 +3,7 @@ import { Provider } from "react-redux";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 //Components
-import { Home, Add, Travel, Audio } from "./components/pages";
+import { Home, Add, Travel, Audio, Visual } from "./components/pages";
 import store from "./components/redux";
 
 const App = () => {
@@ -23,6 +23,9 @@ const App = () => {
 						</Route>
 						<Route exact path="/audio">
 							<Audio />
+						</Route>
+						<Route exact path="/visual">
+							<Visual />
 						</Route>
 					</Switch>
 				</BrowserRouter>

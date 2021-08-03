@@ -2,10 +2,11 @@ import React from "react";
 
 //comps
 import QuestionList from "../../common/reveal_questions/QuestionList";
-
-export interface TravelProps {}
-
-const Travel: React.FC<TravelProps> = () => {
+/**
+ * @author Cheyatz
+ * @description Page for Travel Round , uses the [trvQues] reducer
+ */
+const Travel: React.FC = () => {
 	return <QuestionList type="iframe" reducer="trvQues" />;
 };
 
