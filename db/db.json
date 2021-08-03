@@ -1,8 +1,28 @@
 {
 	"visualQuestions": [
 		{
-			"source": "https://example.com",
-			"answer": "Test"
+			"source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sir_Isaac_Newton_1702.jpg",
+			"answer": "Sir Isaac Newton"
+		},
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/0/04/PSM_V21_D154_Charles_Darwin.png",
+			"answer": "Charles Peter Darwin"
+		},
+		{
+			"source": "https://live.staticflickr.com/4191/34410774306_3baf74aecd_b.jpg",
+			"answer": "Sublimation"
+		},
+		{
+			"source": "https://www.sciencequiz.net/newjcscience/jcbiology/plantreprod/images/malegamete.jpg",
+			"answer": "Fertilization in Plants"
+		},
+		{
+			"source": "https://cdn.shopify.com/s/files/1/1369/1403/articles/athletes_pic5_1400x.jpg?v=1472240892",
+			"answer": "Pasang Lamu Sherpa"
+		},
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahakavi_laxmi_prasad_devkota.jpg/260px-Mahakavi_laxmi_prasad_devkota.jpg",
+			"answer": "Laxmi Prasad Devkota"
 		}
 	],
 	"travelQuestions": [

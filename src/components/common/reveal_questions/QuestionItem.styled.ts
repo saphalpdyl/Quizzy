@@ -8,6 +8,11 @@ export const QuestionContainer = styled.div`
 	grid-template-columns: 2fr 1fr;
 	grid-template-rows: 1fr;
 	gap: 5rem;
+
+	& img {
+		border: 10px solid var(--front);
+		box-shadow: 0px 0px 10px black;
+	}
 `;
 
 export const AnswerRevealButton = styled.button<{

@@ -47,7 +47,7 @@ const QuestionItem: React.FC<QuestionItemProps> = ({
 					Audio not supported
 				</audio>
 			) : (
-				<img src={source} />
+				<img src={source} height="500" width="400" />
 			)}
 			<Button onClick={handleButtonClick} isHidden={isTextHidden}>
 				<span>{answer}</span>
