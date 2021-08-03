@@ -14,6 +14,10 @@ declare global {
 		source: string;
 		place: string;
 	}
+
+	interface rootAction {
+		type: string;
+	}
 }
 
 export {};

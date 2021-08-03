@@ -9,8 +9,17 @@ export const TravelContainer = styled.div`
 
 export const TravelTitle = styled.span`
 	width: 100%;
-	height: 100%;
+	height: 50vh;
 	flex: 1;
+	font-size: 5rem;
+	font-family: cursive;
+	font-weight: bold;
+	padding: 5rem;
+	text-align: center;
+	background-color: var(--clr-ruby-2);
+	color: white;
+	margin-bottom: 50vh;
+	margin-top: 20vh;
 `;
 
 export const TravelQuestionListContainer = styled.div`
@@ -18,4 +27,5 @@ export const TravelQuestionListContainer = styled.div`
 	flex: 1;
 	flex-direction: column;
 	align-items: center;
+	gap: 10rem;
 `;

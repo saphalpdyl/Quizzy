@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 //styles
 import "./styles/css/TravelQuestion.min.css";
@@ -16,6 +16,13 @@ export interface TravelQuestionProps {
 }
 
 const TravelQuestion: React.FC<TravelQuestionProps> = ({ source, place }) => {
+	const [isTextHidden, setIsTextHidden] = useState(true);
+
+	// Set is text hidden state to its opposite
+	const handleButtonClick = () => {
+		setIsTextHidden(!isTextHidden);
+	};
+
 	return (
 		<TravelQuestionContainer className="travel-question">
 			<IFrameContainer>
@@ -28,7 +35,9 @@ const TravelQuestion: React.FC<TravelQuestionProps> = ({ source, place }) => {
 					loading="lazy"
 				></iframe>
 			</IFrameContainer>
-			<Button>Nil Barahi Temple</Button>
+			<Button onClick={handleButtonClick} isHidden={isTextHidden}>
+				<span>{place}</span>
+			</Button>
 		</TravelQuestionContainer>
 	);
 };
