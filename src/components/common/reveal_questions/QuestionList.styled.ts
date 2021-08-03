@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
-export const TravelContainer = styled.div`
+export const Container = styled.div`
 	height: 100%;
 	width: 100%;
 	display: flex;
 	flex-direction: column;
 `;
 
-export const TravelTitle = styled.span`
+export const Title = styled.span`
 	width: 100%;
 	height: 50vh;
 	flex: 1;
@@ -22,7 +22,7 @@ export const TravelTitle = styled.span`
 	margin-top: 20vh;
 `;
 
-export const TravelQuestionListContainer = styled.div`
+export const QuestionListContainer = styled.div`
 	display: flex;
 	flex: 1;
 	flex-direction: column;
