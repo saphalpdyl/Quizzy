@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 //comps
 import QuestionList from "../../common/reveal_questions/QuestionList";
@@ -8,6 +8,10 @@ import QuestionList from "../../common/reveal_questions/QuestionList";
  * @description Page for Auditary Round , uses the [advQues] reducer
  */
 const Audio: React.FC = () => {
+	useEffect(() => {
+		document.title = "Visual Round - Made with ♥ by Cheyatz";
+	}, []);
+
 	return <QuestionList type="audio" reducer="advQues" />;
 };
 

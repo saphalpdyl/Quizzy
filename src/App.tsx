@@ -2,8 +2,17 @@ import React from "react";
 import { Provider } from "react-redux";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-//Components
-import { Home, Add, Travel, Audio, Visual } from "./components/pages";
+// Components
+import {
+	Add,
+	Travel,
+	Audio,
+	Visual,
+	TicketRound,
+	NumberRound,
+} from "./components/pages";
+
+// redux
 import store from "./components/redux";
 
 const App = () => {
@@ -12,8 +21,8 @@ const App = () => {
 			<Provider store={store}>
 				<BrowserRouter>
 					<Switch>
-						<Route exact path="/">
-							<Home />
+						<Route exact path="/ticket">
+							<TicketRound />/
 						</Route>
 						<Route exact path="/add">
 							<Add />
@@ -26,6 +35,9 @@ const App = () => {
 						</Route>
 						<Route exact path="/visual">
 							<Visual />
+						</Route>
+						<Route exact path="/number">
+							<NumberRound />
 						</Route>
 					</Switch>
 				</BrowserRouter>
