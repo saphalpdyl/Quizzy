@@ -9,7 +9,7 @@ import ChoicedQuestion from "../../common/choice_questions/ChoicedQuestions";
  */
 const NumberRound: React.FC = () => {
 	useEffect(() => {
-		document.title = "Visual Round - Made with ♥ by Cheyatz";
+		document.title = "Number Round - Made with ♥ by Cheyatz";
 	}, []);
 
 	return <ChoicedQuestion reducer="numberQuestionsList" />;

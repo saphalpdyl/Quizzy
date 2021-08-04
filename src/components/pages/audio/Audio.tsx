@@ -9,7 +9,7 @@ import QuestionList from "../../common/reveal_questions/QuestionList";
  */
 const Audio: React.FC = () => {
 	useEffect(() => {
-		document.title = "Visual Round - Made with ♥ by Cheyatz";
+		document.title = "Audio Round - Made with ♥ by Cheyatz";
 	}, []);
 
 	return <QuestionList type="audio" reducer="advQues" />;

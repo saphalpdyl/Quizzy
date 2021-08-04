@@ -9,7 +9,7 @@ import ChoicedQuestion from "../../common/choice_questions/ChoicedQuestions";
  */
 const TicketRound: React.FC = () => {
 	useEffect(() => {
-		document.title = "Visual Round - Made with ♥ by Cheyatz";
+		document.title = "Ticket Round - Made with ♥ by Cheyatz";
 	}, []);
 
 	return <ChoicedQuestion reducer="questionsList" />;

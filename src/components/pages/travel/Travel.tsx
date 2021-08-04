@@ -8,7 +8,7 @@ import QuestionList from "../../common/reveal_questions/QuestionList";
  */
 const Travel: React.FC = () => {
 	useEffect(() => {
-		document.title = "Visual Round - Made with ♥ by Cheyatz";
+		document.title = "Travel Round - Made with ♥ by Cheyatz";
 	}, []);
 
 	return <QuestionList type="iframe" reducer="trvQues" />;
