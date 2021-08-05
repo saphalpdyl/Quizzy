@@ -13,19 +13,22 @@ export interface OptionsProps {
  * @param {option[]} [e]
  */
 const Options: React.FC<OptionsProps> = ({ options }) => {
-	const [answerSelected, setAnswerSelected]: [boolean, Function] =
-		useState(false);
+	const [answerSelected, setAnswerSelected]: [boolean[], Function] = useState(
+		[]
+	);
 	const [selectedAnswer, setSelectedAnswer]: [string, Function] = useState("");
 
 	//Sets the answerSelected boolean to true revealing the answers
-	const handleOptionSelect = (option: option) => {
-		setAnswerSelected(true);
+	const handleOptionSelect = (option: option, index: number) => {
+		let tempState = answerSelected;
+		tempState[index] = true;
+		setAnswerSelected(tempState);
 		setSelectedAnswer(option.option);
 	};
 
 	// Listen for changes in the option (change in question) and clear the state
 	useEffect(() => {
-		setAnswerSelected(false);
+		setAnswerSelected([false, false, false, false]);
 		setSelectedAnswer("");
 	}, [options]);
 
@@ -33,8 +36,8 @@ const Options: React.FC<OptionsProps> = ({ options }) => {
 		<OptionsWrapper>
 			{options.map((option, index) => (
 				<Option
-					onClick={() => handleOptionSelect(option)}
-					isAnswered={answerSelected}
+					onClick={() => handleOptionSelect(option, index)}
+					isAnswered={answerSelected[index]}
 					key={index}
 					correct={option?.isCorrect || false}
 				>
