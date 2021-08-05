@@ -1,6 +1,8 @@
 import styled from "styled-components";
+import { motion } from "framer-motion";
 
 export const Options = styled.div`
+	margin-top: 2rem;
 	flex: 7;
 	width: 100%;
 	max-height: 60%;
@@ -34,7 +36,7 @@ export const Option = styled.span<{
 	-webkit-user-select: none;
 	-ms-user-select: none;
 	cursor: pointer;
-	padding: 2rem 5rem;
+	padding: 1.7rem 5rem;
 	transition: all 0.5s;
 	background-color: var(--bg-color);
 
@@ -43,4 +45,18 @@ export const Option = styled.span<{
 		background-color: ${(p) =>
 			p.isAnswered ? "" : "rgba(255, 255, 255, 0.512)"};
 	}
+`;
+
+export const ShowAll = styled(motion.button)`
+	outline: none;
+	border: none;
+	width: 20rem;
+	padding: 1rem 0rem;
+	background-color: var(--clr-yellow-2);
+	align-self: flex-end;
+	font-family: "Consolas", sans-serif;
+	font-weight: 900;
+	letter-spacing: 3px;
+	font-size: 1.5rem;
+	cursor: pointer;
 `;

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 //styled comps
-import { Options as OptionsWrapper, Option } from "./Options.styled";
+import { Options as OptionsWrapper, Option, ShowAll } from "./Options.styled";
 
 export interface OptionsProps {
 	options: option[];
@@ -26,10 +26,14 @@ const Options: React.FC<OptionsProps> = ({ options }) => {
 		setSelectedAnswer(option.option);
 	};
 
+	// show all the answers
+	const handleShowAll = () => {
+		setAnswerSelected([true, true, true, true]);
+	};
+
 	// Listen for changes in the option (change in question) and clear the state
 	useEffect(() => {
 		setAnswerSelected([false, false, false, false]);
-		setSelectedAnswer("");
 	}, [options]);
 
 	return (
@@ -44,6 +48,17 @@ const Options: React.FC<OptionsProps> = ({ options }) => {
 					{option.option}
 				</Option>
 			))}
+			<ShowAll
+				whileTap={{
+					backgroundColor: "var(--clr-yellow-1)",
+					transition: {
+						duration: 0.1,
+					},
+				}}
+				onClick={handleShowAll}
+			>
+				Show All
+			</ShowAll>
 		</OptionsWrapper>
 	);
 };
