@@ -1,1016 +1,1024 @@
 {
-  "numberQuestions": [
-    {
-      "question": "How many seconds are there in one day ?",
-      "options": [
-        {
-          "option": "86400",
-          "isCorrect": true
-        },
-        {
-          "option": "3600"
-        },
-        {
-          "option": "6820"
-        },
-        {
-          "option": "321800"
-        }
-      ],
-      "id": "e8564f91-4dc7-48d4-98f0-4aa38aa37c35"
-    },
-    {
-      "question": "What is 32 degree Fahrenheit equal to in degree Celsius scale ? ",
-      "options": [
-        {
-          "option": "0 C",
-          "isCorrect": true
-        },
-        {
-          "option": "100 C"
-        },
-        {
-          "option": "32 C"
-        },
-        {
-          "option": "-3.12 C"
-        }
-      ],
-      "id": "81b56295-467f-4516-b216-a2aced207595"
-    },
-    {
-      "question": "A car is moving with the speed of 50 km per second , what is the distance travelled in one second in metre ?",
-      "options": [
-        {
-          "option": "50000 m ",
-          "isCorrect": true
-        },
-        {
-          "option": "16.67 m"
-        },
-        {
-          "option": "1667.6667 m"
-        },
-        {
-          "option": "5000 m"
-        }
-      ],
-      "id": "cecd2c90-b1f2-4d8e-9654-7c862829ae88"
-    },
-    {
-      "question": "1000 mm is equal to how many centimetre ? ",
-      "options": [
-        {
-          "option": "100 cm",
-          "isCorrect": true
-        },
-        {
-          "option": "1000 cm"
-        },
-        {
-          "option": "10 cm"
-        },
-        {
-          "option": "1 cm"
-        }
-      ],
-      "id": "2f09a93f-e37c-4e0d-9307-870e36250c99"
-    },
-    {
-      "question": "In how many state does the water exist ? ",
-      "options": [
-        {
-          "option": "3",
-          "isCorrect": true
-        },
-        {
-          "option": "2"
-        },
-        {
-          "option": "1"
-        },
-        {
-          "option": "4"
-        }
-      ],
-      "id": "3865616c-1a1d-4125-b8bc-017e7f47214a"
-    },
-    {
-      "question": "Melting point of water is _______",
-      "options": [
-        {
-          "option": "0 degree celsius",
-          "isCorrect": true
-        },
-        {
-          "option": "100 degree celsius"
-        },
-        {
-          "option": "68.87 degree celsius"
-        },
-        {
-          "option": "None of the above"
-        }
-      ],
-      "id": "ea91004a-a4e4-4135-b81f-e1e23f3b724c"
-    },
-    {
-      "question": "Boiling point of water is _______",
-      "options": [
-        {
-          "option": "100 degrees celsius",
-          "isCorrect": true
-        },
-        {
-          "option": "0 degree celsius"
-        },
-        {
-          "option": "68.87 degrees celsius"
-        },
-        {
-          "option": "10 degrees celsius"
-        }
-      ],
-      "id": "52e1c4cf-61a8-46e3-ac85-37f60cb3b633"
-    },
-    {
-      "question": "How many layers is the earth's atmosphere divided into ?",
-      "options": [
-        {
-          "option": "5",
-          "isCorrect": true
-        },
-        {
-          "option": "4"
-        },
-        {
-          "option": "6"
-        },
-        {
-          "option": "3"
-        }
-      ],
-      "id": "ce8dc770-482a-4367-a10e-9b459131b0f4"
-    },
-    {
-      "question": "A boy is pulling a box with a force of 10 N where the box travelled a distance of 5 metre. How much work is done ?",
-      "options": [
-        {
-          "option": "50 Joules",
-          "isCorrect": true
-        },
-        {
-          "option": "50 calorie"
-        },
-        {
-          "option": "40 Joules"
-        },
-        {
-          "option": "2 Joules"
-        }
-      ],
-      "id": "f1ca0f30-1a2f-450e-8ff0-19c1e14c9fa9"
-    },
-    {
-      "question": "What is the percentage of blood plasma in the blood ? ",
-      "options": [
-        {
-          "option": "45 % ",
-          "isCorrect": true
-        },
-        {
-          "option": "44 %"
-        },
-        {
-          "option": "46 %"
-        },
-        {
-          "option": "44.637 %"
-        }
-      ],
-      "id": "d60fece9-9c14-44a0-b164-bb39beba5ef4"
-    }
-  ],
-  "visualQuestions": [
-    {
-      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sir_Isaac_Newton_1702.jpg",
-      "answer": "Sir Isaac Newton"
-    },
-    {
-      "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/PSM_V21_D154_Charles_Darwin.png",
-      "answer": "Charles Peter Darwin"
-    },
-    {
-      "source": "https://live.staticflickr.com/4191/34410774306_3baf74aecd_b.jpg",
-      "answer": "Sublimation"
-    },
-    {
-      "source": "https://www.sciencequiz.net/newjcscience/jcbiology/plantreprod/images/malegamete.jpg",
-      "answer": "Fertilization in Plants"
-    },
-    {
-      "source": "https://cdn.shopify.com/s/files/1/1369/1403/articles/athletes_pic5_1400x.jpg?v=1472240892",
-      "answer": "Pasang Lamu Sherpa"
-    },
-    {
-      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahakavi_laxmi_prasad_devkota.jpg/260px-Mahakavi_laxmi_prasad_devkota.jpg",
-      "answer": "Laxmi Prasad Devkota"
-    }
-  ],
-  "travelQuestions": [
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627883243309!6m8!1m7!1sCAoSLEFGMVFpcE04MmYwTnNnTjJubk1wWjIxOWdUaVVRV1dxdmFzNjZXRzFHNDh0!2m2!1d27.49832!2d83.2762367!3f2.720927319524165!4f4.891219620032913!5f0.7820865974627469",
-      "answer": "Lumbini"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627883614703!6m8!1m7!1sCAoSLEFGMVFpcE1qNzZjRVpYa3FDcHRmWERpZmM1bWZISlhYcG4wbGhPX2V3a1df!2m2!1d28.2073989!2d83.9535396!3f29.61742006495415!4f4.199598405655237!5f0.7820865974627469",
-      "answer": "Nil Barahi Temple , Pokhara"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627883749677!6m8!1m7!1sCAoSLEFGMVFpcFBONFBPSUNmRlg1LTBuaUtwZ1I0WG01NTJ2cTdYRzVqYnBRTlp3!2m2!1d27.7149503!2d85.29041649999999!3f81.1923722061838!4f29.486785577447336!5f0.5630872626949746",
-      "answer": "Swayambhunath Temple"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627883818862!6m8!1m7!1sCAoSLEFGMVFpcE5EVUlKWG16MUFveTdaZ2J0R0tNbWZCOVpaLWtDOVczOVBVU3du!2m2!1d27.6051237!2d85.2634609!3f302.8452505190868!4f9.35720146120569!5f0.7820865974627469",
-      "answer": "Dakshinkali Temple"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627883914860!6m8!1m7!1sCAoSLEFGMVFpcE12bWV1SlJjSDl4bTdjWTVtaTZHRTJoQW9waWRIbTRjMTh4Mm1V!2m2!1d27.9040991!2d84.5840673!3f344.2122296569888!4f18.866353675831803!5f0.7820865974627469",
-      "answer": "Manakamana"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627884141632!6m8!1m7!1sCAoSLEFGMVFpcE54SEd3dkxtcF9uQ0ZzcFp3Zm5YV0stUHBXdnJucU5FeXZmM284!2m2!1d27.6875413!2d86.7317107!3f271.325044471951!4f17.821145360125513!5f0.7820865974627469",
-      "answer": "Tenzing Hillary Airport , Lukla"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627884299328!6m8!1m7!1sCAoSLEFGMVFpcE5XZEhVZi1KaTJicHQ4YnkwOU9zRkJrdVlVRk5RckxQOUh3MlZW!2m2!1d29.53900326173021!2d82.08029918038002!3f5.065740229152317!4f-15.229913047641134!5f0.7820865974627469",
-      "answer": "Rara Lake , Mugu"
-    },
-    {
-      "source": "https://www.google.com/maps/embed?pb=!4v1627884493216!6m8!1m7!1sCAoSLEFGMVFpcE9vODBvbUxmWFNLQlZyQm1zLW5RS1dBMGF4S3dSNk5WUmEteG50!2m2!1d28.81684169999999!2d83.8718667!3f142.39800498317987!4f-12.257962621993215!5f0.4000000000000002",
-      "answer": "Pathivara Temple , Taplejung"
-    }
-  ],
-  "questions": [
-    {
-      "question": "What tissue connects muscles to bone ?",
-      "options": [
-        {
-          "option": "Bone"
-        },
-        {
-          "option": "Cartilage"
-        },
-        {
-          "option": "Ligament"
-        },
-        {
-          "option": "Tendon",
-          "isCorrect": true
-        }
-      ],
-      "id": "4ee19ad3-ecc7-44b6-acda-9a64706a066e"
-    },
-    {
-      "question": "Which nutrient plays an essential role in muscle-building?",
-      "options": [
-        {
-          "option": "Protein",
-          "isCorrect": true
-        },
-        {
-          "option": "Carbohydrate"
-        },
-        {
-          "option": "Fat"
-        },
-        {
-          "option": "Minerals"
-        }
-      ],
-      "id": "baea87bc-a254-42dc-bb47-d770e6cf04e0"
-    },
-    {
-      "question": "How old is the universe ?",
-      "options": [
-        {
-          "option": "13.7 Billion Years"
-        },
-        {
-          "option": "13.9 Billion Years"
-        },
-        {
-          "option": "13.8 Billion Years",
-          "isCorrect": true
-        },
-        {
-          "option": "18.3 Billion Years"
-        }
-      ],
-      "id": "dfeb3625-2a94-433c-88c9-97a3371810e0"
-    },
-    {
-      "question": "Which scientist proposed the three laws of motion ? ",
-      "options": [
-        {
-          "option": "Albert Einstein"
-        },
-        {
-          "option": "Charles Darwin"
-        },
-        {
-          "option": "Stephen Hawking"
-        },
-        {
-          "option": "Sir Isaac Newton",
-          "isCorrect": true
-        }
-      ],
-      "id": "0fcf0ce5-5c21-429e-8ebc-82b306fe60e1"
-    },
-    {
-      "question": "Earth is surrounded by layers of gases collectively called the ____ .",
-      "options": [
-        {
-          "option": "Atmosphere",
-          "isCorrect": true
-        },
-        {
-          "option": "Lithosphere"
-        },
-        {
-          "option": "Aerosphere"
-        },
-        {
-          "option": "Hydrosphere"
-        }
-      ],
-      "id": "913d5da0-c20f-4130-b8a4-efac4bbb7029"
-    },
-    {
-      "question": "What is the darkest part of a shadow ?",
-      "options": [
-        {
-          "option": "Umbra",
-          "isCorrect": true
-        },
-        {
-          "option": "Exo-Umbra"
-        },
-        {
-          "option": "Sub-Penumbra"
-        },
-        {
-          "option": "Penumbra"
-        }
-      ],
-      "id": "587387c3-0b83-4806-b758-d81955c7e8c2"
-    },
-    {
-      "question": "Which is the largest animal on Earth ?",
-      "options": [
-        {
-          "option": "Blue Whale",
-          "isCorrect": true
-        },
-        {
-          "option": "African Elephant"
-        },
-        {
-          "option": "Crocodile"
-        },
-        {
-          "option": "Cow"
-        }
-      ],
-      "id": "7beb407e-e72a-44fa-9c31-2c04e5ee644a"
-    },
-    {
-      "question": "Similar body cells group together to form a _____ .",
-      "options": [
-        {
-          "option": "Cell-group"
-        },
-        {
-          "option": "System"
-        },
-        {
-          "option": "Tissue",
-          "isCorrect": true
-        },
-        {
-          "option": "Cells"
-        }
-      ],
-      "id": "e617a4be-4eeb-49be-91c3-be1f4111486c"
-    },
-    {
-      "question": "What energy comes from motion ?",
-      "options": [
-        {
-          "option": "Mechanical Energy",
-          "isCorrect": true
-        },
-        {
-          "option": "Solar Energy"
-        },
-        {
-          "option": "Speed Energy "
-        },
-        {
-          "option": "Motion Energy "
-        }
-      ],
-      "id": "a1fc2234-d48e-4684-b9a4-a2b650e9b494"
-    },
-    {
-      "question": "What is the strongest sense in a dog ?",
-      "options": [
-        {
-          "option": "Vision"
-        },
-        {
-          "option": "Stability"
-        },
-        {
-          "option": "Smell",
-          "isCorrect": true
-        },
-        {
-          "option": "Regeneration"
-        }
-      ],
-      "id": "fb9646e3-74cf-496b-878f-5498c434e549"
-    },
-    {
-      "question": "The standard unit of measurement for energy is ______ .",
-      "options": [
-        {
-          "option": "Calorie"
-        },
-        {
-          "option": "Watt"
-        },
-        {
-          "option": "Metre"
-        },
-        {
-          "option": "Joule",
-          "isCorrect": true
-        }
-      ],
-      "id": "b6f65284-f385-462b-bf89-651226393181"
-    },
-    {
-      "question": "Which biologist proposed the theory of evolution through natural selection ?",
-      "options": [
-        {
-          "option": "George Cuvier"
-        },
-        {
-          "option": "Jean-Baptiste Lamarck"
-        },
-        {
-          "option": "Charles Darwin",
-          "isCorrect": true
-        },
-        {
-          "option": "Alfred Russel Wallace"
-        }
-      ],
-      "id": "3c492181-050b-43e7-b3d6-6c8d51e5708d"
-    },
-    {
-      "question": "Which two parts of you body continue to grow for your entire life ?",
-      "options": [
-        {
-          "option": "Nose and Ears",
-          "isCorrect": true
-        },
-        {
-          "option": "Ears and Eyes"
-        },
-        {
-          "option": "Nose and Eyes"
-        },
-        {
-          "option": "Eyes and Teeth"
-        }
-      ],
-      "id": "af8f02e2-2679-452a-8265-bc75848bd77e"
-    },
-    {
-      "question": "The outward force , away from the center , felt by an object in circular motion is _____ .",
-      "options": [
-        {
-          "option": "Centrifugal force",
-          "isCorrect": true
-        },
-        {
-          "option": "Centripetal force"
-        },
-        {
-          "option": "Physical force"
-        },
-        {
-          "option": "Circular force"
-        }
-      ],
-      "id": "1b880090-68b2-4edf-9e89-9a45c5d6e1bc"
-    },
-    {
-      "question": "What type of energy eventually depletes ?",
-      "options": [
-        {
-          "option": "Renewable energy"
-        },
-        {
-          "option": "Motion energy"
-        },
-        {
-          "option": "Non-renewable energy",
-          "isCorrect": true
-        },
-        {
-          "option": "Alternative energy"
-        }
-      ],
-      "id": "9b473085-f738-4ca4-9060-f3372b2db8b8"
-    },
-    {
-      "question": "Which is the closest planet to the sun ?",
-      "options": [
-        {
-          "option": "Mars"
-        },
-        {
-          "option": "Earth"
-        },
-        {
-          "option": "Venus"
-        },
-        {
-          "option": "Mercury",
-          "isCorrect": true
-        }
-      ],
-      "id": "5270698b-999f-4331-8f67-c73cc618b27d"
-    },
-    {
-      "question": "How old is the Earth ?",
-      "options": [
-        {
-          "option": "4.4 Billion Years"
-        },
-        {
-          "option": "2.34 Billion Years"
-        },
-        {
-          "option": "4.5 Billion Years",
-          "isCorrect": true
-        },
-        {
-          "option": "4.6 Billion Years"
-        }
-      ],
-      "id": "7f9f1b24-af3e-42ff-ab2e-cc183c07d113"
-    },
-    {
-      "question": "What is the botanical name of Tomato ? ",
-      "options": [
-        {
-          "option": "Brassica oleracea"
-        },
-        {
-          "option": "Ocimum tenuiflorum"
-        },
-        {
-          "option": "Pisum sativum"
-        },
-        {
-          "option": "Solanum tycopersicum",
-          "isCorrect": true
-        }
-      ],
-      "id": "01eda4d2-0c21-4249-bdad-43deed1c8b27"
-    },
-    {
-      "question": "I have dry , scaly skin , breathe with lungs and lay shelled eggs. Who am I ?",
-      "options": [
-        {
-          "option": "Fish"
-        },
-        {
-          "option": "Amphibian"
-        },
-        {
-          "option": "Mammals"
-        },
-        {
-          "option": "Reptiles",
-          "isCorrect": true
-        }
-      ],
-      "id": "2dae5b75-da37-4aff-82e3-d50e6e8b8e12"
-    },
-    {
-      "question": "What are the products of anaerobic respiration in yeast ? ",
-      "options": [
-        {
-          "option": "Ethyl Alcohol and Carbon dioxide",
-          "isCorrect": true
-        },
-        {
-          "option": "Only Carbon dioxide"
-        },
-        {
-          "option": "Ethyl Alcohol and Oxygen"
-        },
-        {
-          "option": "Only Ethyl Alcohol"
-        }
-      ],
-      "id": "48dad042-f0c6-4046-a8f7-929912ad1966"
-    },
-    {
-      "question": "Which animal never drinks water in its entire life ?",
-      "options": [
-        {
-          "option": "Kangaroo rat",
-          "isCorrect": true
-        },
-        {
-          "option": "Kangaroo"
-        },
-        {
-          "option": "Chicken "
-        },
-        {
-          "option": "Rat"
-        }
-      ],
-      "id": "13f2efa0-efc7-464d-a9cf-c7c42f661164"
-    },
-    {
-      "question": "The largest cell is _______",
-      "options": [
-        {
-          "option": "The egg of ostrich",
-          "isCorrect": true
-        },
-        {
-          "option": "Ovum"
-        },
-        {
-          "option": "Nerve cell"
-        },
-        {
-          "option": "None of the above"
-        }
-      ],
-      "id": "d23efbcf-0eeb-4337-88d0-6cf2c234f728"
-    },
-    {
-      "question": "Which is the largest human cell ?",
-      "options": [
-        {
-          "option": "Ovum",
-          "isCorrect": true
-        },
-        {
-          "option": "Liver"
-        },
-        {
-          "option": "Skin"
-        },
-        {
-          "option": "Spleen"
-        }
-      ],
-      "id": "8f6be324-ded7-4410-9cc3-31f3338ce592"
-    },
-    {
-      "question": "Which is the longest cell in the human body ?",
-      "options": [
-        {
-          "option": "Nerve Cell",
-          "isCorrect": true
-        },
-        {
-          "option": "Skin"
-        },
-        {
-          "option": "Spleen "
-        },
-        {
-          "option": "None of the above"
-        }
-      ],
-      "id": "c14f9225-3eb8-4030-a18f-62aa99f60bb5"
-    },
-    {
-      "question": "What is the lifespan of RBC ? ",
-      "options": [
-        {
-          "option": "120 days",
-          "isCorrect": true
-        },
-        {
-          "option": "130 days"
-        },
-        {
-          "option": "110 days "
-        },
-        {
-          "option": "100 days"
-        }
-      ],
-      "id": "c2f64dc8-e194-422e-8125-d2e387e76bae"
-    },
-    {
-      "question": "What is the lifespan of WBC ? ",
-      "options": [
-        {
-          "option": "2 - 15 days",
-          "isCorrect": true
-        },
-        {
-          "option": "3 - 15 days"
-        },
-        {
-          "option": "4 - 16 days "
-        },
-        {
-          "option": "5 - 20 day"
-        }
-      ],
-      "id": "ed96bb37-2080-4013-9e4b-a7f9f3e18c95"
-    },
-    {
-      "question": "How many types of nutrients are there ? ",
-      "options": [
-        {
-          "option": "5",
-          "isCorrect": true
-        },
-        {
-          "option": "4"
-        },
-        {
-          "option": "6"
-        },
-        {
-          "option": "3"
-        }
-      ],
-      "id": "615c771f-522e-4188-a5f0-9e87b11239d2"
-    },
-    {
-      "question": "In our solar system , how many moon does planet Mars have ? ",
-      "options": [
-        {
-          "option": "2",
-          "isCorrect": true
-        },
-        {
-          "option": "1 "
-        },
-        {
-          "option": "3"
-        },
-        {
-          "option": "None"
-        }
-      ],
-      "id": "ed4b640d-8d40-47d9-a2c2-76b2a76912ee"
-    },
-    {
-      "question": "How many colors does a ray of white light consist of ?",
-      "options": [
-        {
-          "option": "7",
-          "isCorrect": true
-        },
-        {
-          "option": "8"
-        },
-        {
-          "option": "6"
-        },
-        {
-          "option": "10"
-        }
-      ],
-      "id": "521e7bbf-c16c-4014-af07-77423455ab2f"
-    },
-    {
-      "question": "What is the full of UPS in a computer ?",
-      "options": [
-        {
-          "option": "Uninterruptable Power Supply",
-          "isCorrect": true
-        },
-        {
-          "option": "Ultra Power System"
-        },
-        {
-          "option": "Universal Power Supply"
-        },
-        {
-          "option": "Under Power Supply"
-        }
-      ],
-      "id": "9f6104a8-86df-4e52-b33d-9421aa857f19"
-    },
-    {
-      "question": "Name the vegetable which is also known as a flow ? ",
-      "options": [
-        {
-          "option": "Broccoli",
-          "isCorrect": true
-        },
-        {
-          "option": "Cauliflower"
-        },
-        {
-          "option": "Tomato"
-        },
-        {
-          "option": "Banana"
-        }
-      ],
-      "id": "18b817c1-ea10-45f6-b758-f4180f640837"
-    },
-    {
-      "question": "What is the height of Mt. Everest ? ",
-      "options": [
-        {
-          "option": "8848.86 m",
-          "isCorrect": true
-        },
-        {
-          "option": "8848 m "
-        },
-        {
-          "option": "8849 m"
-        },
-        {
-          "option": "8848.68 m"
-        }
-      ],
-      "id": "d5a20dd4-4a56-4a6f-81d3-501ec98fffc6"
-    },
-    {
-      "question": "Which planet is commonly known as dwarf planet ?",
-      "options": [
-        {
-          "option": "Pluto",
-          "isCorrect": true
-        },
-        {
-          "option": "Uranus"
-        },
-        {
-          "option": "Mercury"
-        },
-        {
-          "option": "Venus"
-        }
-      ],
-      "id": "830d2919-b358-4a14-aa41-40db8aa5ee66"
-    },
-    {
-      "question": "Celsius and Fahrenheit scale show the same temperature at ______ . ",
-      "options": [
-        {
-          "option": "-40",
-          "isCorrect": true
-        },
-        {
-          "option": "-39.371"
-        },
-        {
-          "option": "-20"
-        },
-        {
-          "option": "-41.23"
-        }
-      ],
-      "id": "8a32c31a-a79a-4869-90c8-cb8b7b01e0ea"
-    },
-    {
-      "question": "The ozone layer lies in the ________",
-      "options": [
-        {
-          "option": "Stratosphere",
-          "isCorrect": true
-        },
-        {
-          "option": "Mesosphere"
-        },
-        {
-          "option": "Trophosphere"
-        },
-        {
-          "option": "Thermosphere"
-        }
-      ],
-      "id": "9c3d139c-48c7-4b4c-843a-c236113d08fb"
-    },
-    {
-      "question": "Which is the largest blood vessel in the body ? ",
-      "options": [
-        {
-          "option": "Aorta",
-          "isCorrect": true
-        },
-        {
-          "option": "Alveoli"
-        },
-        {
-          "option": "Capillary"
-        },
-        {
-          "option": "Artery"
-        }
-      ],
-      "id": "2ff26728-e2dd-4f49-bca8-a05ec8758af1"
-    },
-    {
-      "question": "Which of the following carries impure blood ?",
-      "options": [
-        {
-          "option": "Pulmonary Artery",
-          "isCorrect": true
-        },
-        {
-          "option": "Pulmonary Vein"
-        },
-        {
-          "option": "Alveoli"
-        },
-        {
-          "option": "Aorta"
-        }
-      ],
-      "id": "69c7df05-18fa-4472-9a4b-6f7146ecaab0"
-    },
-    {
-      "question": "Thermometer was made first by _______ .",
-      "options": [
-        {
-          "option": "Gauss",
-          "isCorrect": true
-        },
-        {
-          "option": "Sir Isaac Newton"
-        },
-        {
-          "option": "Albert Einstein "
-        },
-        {
-          "option": "Pascal"
-        }
-      ],
-      "id": "fcf5a629-5a3a-448d-a189-5e08b0b49886"
-    },
-    {
-      "question": "Lack of Iodine causes _______ . ",
-      "options": [
-        {
-          "option": "Goiter",
-          "isCorrect": true
-        },
-        {
-          "option": "Tuberculosis"
-        },
-        {
-          "option": "Cancer"
-        },
-        {
-          "option": "Tonsils"
-        }
-      ],
-      "id": "dfd6fdc9-db3e-4eda-8a20-f6782a667d71"
-    },
-    {
-      "question": "Roughage is also called ______ .",
-      "options": [
-        {
-          "option": "Dietary Fibres",
-          "isCorrect": true
-        },
-        {
-          "option": "Diet"
-        },
-        {
-          "option": "Balanced Diet"
-        },
-        {
-          "option": "Water"
-        }
-      ],
-      "id": "a4895112-e88c-4228-90c1-7f14b061f9db"
-    }
-  ]
+	"numberQuestions": [
+		{
+			"question": "How many seconds are there in one day ?",
+			"options": [
+				{
+					"option": "86400",
+					"isCorrect": true
+				},
+				{
+					"option": "3600"
+				},
+				{
+					"option": "6820"
+				},
+				{
+					"option": "321800"
+				}
+			],
+			"id": "e8564f91-4dc7-48d4-98f0-4aa38aa37c35"
+		},
+		{
+			"question": "What is 32 degree Fahrenheit equal to in degree Celsius scale ? ",
+			"options": [
+				{
+					"option": "0 C",
+					"isCorrect": true
+				},
+				{
+					"option": "100 C"
+				},
+				{
+					"option": "32 C"
+				},
+				{
+					"option": "-3.12 C"
+				}
+			],
+			"id": "81b56295-467f-4516-b216-a2aced207595"
+		},
+		{
+			"question": "A car is moving with the speed of 50 km per second , what is the distance travelled in one second in metre ?",
+			"options": [
+				{
+					"option": "50000 m ",
+					"isCorrect": true
+				},
+				{
+					"option": "16.67 m"
+				},
+				{
+					"option": "1667.6667 m"
+				},
+				{
+					"option": "5000 m"
+				}
+			],
+			"id": "cecd2c90-b1f2-4d8e-9654-7c862829ae88"
+		},
+		{
+			"question": "1000 mm is equal to how many centimetre ? ",
+			"options": [
+				{
+					"option": "100 cm",
+					"isCorrect": true
+				},
+				{
+					"option": "1000 cm"
+				},
+				{
+					"option": "10 cm"
+				},
+				{
+					"option": "1 cm"
+				}
+			],
+			"id": "2f09a93f-e37c-4e0d-9307-870e36250c99"
+		},
+		{
+			"question": "In how many state does the water exist ? ",
+			"options": [
+				{
+					"option": "3",
+					"isCorrect": true
+				},
+				{
+					"option": "2"
+				},
+				{
+					"option": "1"
+				},
+				{
+					"option": "4"
+				}
+			],
+			"id": "3865616c-1a1d-4125-b8bc-017e7f47214a"
+		},
+		{
+			"question": "Melting point of water is _______",
+			"options": [
+				{
+					"option": "0 degree celsius",
+					"isCorrect": true
+				},
+				{
+					"option": "100 degree celsius"
+				},
+				{
+					"option": "68.87 degree celsius"
+				},
+				{
+					"option": "None of the above"
+				}
+			],
+			"id": "ea91004a-a4e4-4135-b81f-e1e23f3b724c"
+		},
+		{
+			"question": "Boiling point of water is _______",
+			"options": [
+				{
+					"option": "100 degrees celsius",
+					"isCorrect": true
+				},
+				{
+					"option": "0 degree celsius"
+				},
+				{
+					"option": "68.87 degrees celsius"
+				},
+				{
+					"option": "10 degrees celsius"
+				}
+			],
+			"id": "52e1c4cf-61a8-46e3-ac85-37f60cb3b633"
+		},
+		{
+			"question": "How many layers is the earth's atmosphere divided into ?",
+			"options": [
+				{
+					"option": "5",
+					"isCorrect": true
+				},
+				{
+					"option": "4"
+				},
+				{
+					"option": "6"
+				},
+				{
+					"option": "3"
+				}
+			],
+			"id": "ce8dc770-482a-4367-a10e-9b459131b0f4"
+		},
+		{
+			"question": "A boy is pulling a box with a force of 10 N where the box travelled a distance of 5 metre. How much work is done ?",
+			"options": [
+				{
+					"option": "50 Joules",
+					"isCorrect": true
+				},
+				{
+					"option": "50 calorie"
+				},
+				{
+					"option": "40 Joules"
+				},
+				{
+					"option": "2 Joules"
+				}
+			],
+			"id": "f1ca0f30-1a2f-450e-8ff0-19c1e14c9fa9"
+		},
+		{
+			"question": "What is the percentage of blood plasma in the blood ? ",
+			"options": [
+				{
+					"option": "45 % ",
+					"isCorrect": true
+				},
+				{
+					"option": "44 %"
+				},
+				{
+					"option": "46 %"
+				},
+				{
+					"option": "44.637 %"
+				}
+			],
+			"id": "d60fece9-9c14-44a0-b164-bb39beba5ef4"
+		}
+	],
+	"visualQuestions": [
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sir_Isaac_Newton_1702.jpg",
+			"answer": "Sir Isaac Newton"
+		},
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/0/04/PSM_V21_D154_Charles_Darwin.png",
+			"answer": "Charles Peter Darwin"
+		},
+		{
+			"source": "https://live.staticflickr.com/4191/34410774306_3baf74aecd_b.jpg",
+			"answer": "Sublimation"
+		},
+		{
+			"source": "https://www.sciencequiz.net/newjcscience/jcbiology/plantreprod/images/malegamete.jpg",
+			"answer": "Fertilization in Plants"
+		},
+		{
+			"source": "https://cdn.shopify.com/s/files/1/1369/1403/articles/athletes_pic5_1400x.jpg?v=1472240892",
+			"answer": "Pasang Lamu Sherpa"
+		},
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mahakavi_laxmi_prasad_devkota.jpg/260px-Mahakavi_laxmi_prasad_devkota.jpg",
+			"answer": "Laxmi Prasad Devkota"
+		},
+		{
+			"source": "data:image/jpeg;base64,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",
+			"answer": "Gehendra Shumsher"
+		},
+		{
+			"source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Neil_Armstrong_1956_portrait.jpg",
+			"answer": "Neil Armstrong"
+		}
+	],
+	"travelQuestions": [
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627883243309!6m8!1m7!1sCAoSLEFGMVFpcE04MmYwTnNnTjJubk1wWjIxOWdUaVVRV1dxdmFzNjZXRzFHNDh0!2m2!1d27.49832!2d83.2762367!3f2.720927319524165!4f4.891219620032913!5f0.7820865974627469",
+			"answer": "Lumbini"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627883614703!6m8!1m7!1sCAoSLEFGMVFpcE1qNzZjRVpYa3FDcHRmWERpZmM1bWZISlhYcG4wbGhPX2V3a1df!2m2!1d28.2073989!2d83.9535396!3f29.61742006495415!4f4.199598405655237!5f0.7820865974627469",
+			"answer": "Nil Barahi Temple , Pokhara"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627883749677!6m8!1m7!1sCAoSLEFGMVFpcFBONFBPSUNmRlg1LTBuaUtwZ1I0WG01NTJ2cTdYRzVqYnBRTlp3!2m2!1d27.7149503!2d85.29041649999999!3f81.1923722061838!4f29.486785577447336!5f0.5630872626949746",
+			"answer": "Swayambhunath Temple"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627883818862!6m8!1m7!1sCAoSLEFGMVFpcE5EVUlKWG16MUFveTdaZ2J0R0tNbWZCOVpaLWtDOVczOVBVU3du!2m2!1d27.6051237!2d85.2634609!3f302.8452505190868!4f9.35720146120569!5f0.7820865974627469",
+			"answer": "Dakshinkali Temple"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627883914860!6m8!1m7!1sCAoSLEFGMVFpcE12bWV1SlJjSDl4bTdjWTVtaTZHRTJoQW9waWRIbTRjMTh4Mm1V!2m2!1d27.9040991!2d84.5840673!3f344.2122296569888!4f18.866353675831803!5f0.7820865974627469",
+			"answer": "Manakamana"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627884141632!6m8!1m7!1sCAoSLEFGMVFpcE54SEd3dkxtcF9uQ0ZzcFp3Zm5YV0stUHBXdnJucU5FeXZmM284!2m2!1d27.6875413!2d86.7317107!3f271.325044471951!4f17.821145360125513!5f0.7820865974627469",
+			"answer": "Tenzing Hillary Airport , Lukla"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627884299328!6m8!1m7!1sCAoSLEFGMVFpcE5XZEhVZi1KaTJicHQ4YnkwOU9zRkJrdVlVRk5RckxQOUh3MlZW!2m2!1d29.53900326173021!2d82.08029918038002!3f5.065740229152317!4f-15.229913047641134!5f0.7820865974627469",
+			"answer": "Rara Lake , Mugu"
+		},
+		{
+			"source": "https://www.google.com/maps/embed?pb=!4v1627884493216!6m8!1m7!1sCAoSLEFGMVFpcE9vODBvbUxmWFNLQlZyQm1zLW5RS1dBMGF4S3dSNk5WUmEteG50!2m2!1d28.81684169999999!2d83.8718667!3f142.39800498317987!4f-12.257962621993215!5f0.4000000000000002",
+			"answer": "Pathivara Temple , Taplejung"
+		}
+	],
+	"questions": [
+		{
+			"question": "What tissue connects muscles to bone ?",
+			"options": [
+				{
+					"option": "Bone"
+				},
+				{
+					"option": "Cartilage"
+				},
+				{
+					"option": "Ligament"
+				},
+				{
+					"option": "Tendon",
+					"isCorrect": true
+				}
+			],
+			"id": "4ee19ad3-ecc7-44b6-acda-9a64706a066e"
+		},
+		{
+			"question": "Which nutrient plays an essential role in muscle-building?",
+			"options": [
+				{
+					"option": "Protein",
+					"isCorrect": true
+				},
+				{
+					"option": "Carbohydrate"
+				},
+				{
+					"option": "Fat"
+				},
+				{
+					"option": "Minerals"
+				}
+			],
+			"id": "baea87bc-a254-42dc-bb47-d770e6cf04e0"
+		},
+		{
+			"question": "How old is the universe ?",
+			"options": [
+				{
+					"option": "13.7 Billion Years"
+				},
+				{
+					"option": "13.9 Billion Years"
+				},
+				{
+					"option": "13.8 Billion Years",
+					"isCorrect": true
+				},
+				{
+					"option": "18.3 Billion Years"
+				}
+			],
+			"id": "dfeb3625-2a94-433c-88c9-97a3371810e0"
+		},
+		{
+			"question": "Which scientist proposed the three laws of motion ? ",
+			"options": [
+				{
+					"option": "Albert Einstein"
+				},
+				{
+					"option": "Charles Darwin"
+				},
+				{
+					"option": "Stephen Hawking"
+				},
+				{
+					"option": "Sir Isaac Newton",
+					"isCorrect": true
+				}
+			],
+			"id": "0fcf0ce5-5c21-429e-8ebc-82b306fe60e1"
+		},
+		{
+			"question": "Earth is surrounded by layers of gases collectively called the ____ .",
+			"options": [
+				{
+					"option": "Atmosphere",
+					"isCorrect": true
+				},
+				{
+					"option": "Lithosphere"
+				},
+				{
+					"option": "Aerosphere"
+				},
+				{
+					"option": "Hydrosphere"
+				}
+			],
+			"id": "913d5da0-c20f-4130-b8a4-efac4bbb7029"
+		},
+		{
+			"question": "What is the darkest part of a shadow ?",
+			"options": [
+				{
+					"option": "Umbra",
+					"isCorrect": true
+				},
+				{
+					"option": "Exo-Umbra"
+				},
+				{
+					"option": "Sub-Penumbra"
+				},
+				{
+					"option": "Penumbra"
+				}
+			],
+			"id": "587387c3-0b83-4806-b758-d81955c7e8c2"
+		},
+		{
+			"question": "Which is the largest animal on Earth ?",
+			"options": [
+				{
+					"option": "Blue Whale",
+					"isCorrect": true
+				},
+				{
+					"option": "African Elephant"
+				},
+				{
+					"option": "Crocodile"
+				},
+				{
+					"option": "Cow"
+				}
+			],
+			"id": "7beb407e-e72a-44fa-9c31-2c04e5ee644a"
+		},
+		{
+			"question": "Similar body cells group together to form a _____ .",
+			"options": [
+				{
+					"option": "Cell-group"
+				},
+				{
+					"option": "System"
+				},
+				{
+					"option": "Tissue",
+					"isCorrect": true
+				},
+				{
+					"option": "Cells"
+				}
+			],
+			"id": "e617a4be-4eeb-49be-91c3-be1f4111486c"
+		},
+		{
+			"question": "What energy comes from motion ?",
+			"options": [
+				{
+					"option": "Mechanical Energy",
+					"isCorrect": true
+				},
+				{
+					"option": "Solar Energy"
+				},
+				{
+					"option": "Speed Energy "
+				},
+				{
+					"option": "Motion Energy "
+				}
+			],
+			"id": "a1fc2234-d48e-4684-b9a4-a2b650e9b494"
+		},
+		{
+			"question": "What is the strongest sense in a dog ?",
+			"options": [
+				{
+					"option": "Vision"
+				},
+				{
+					"option": "Stability"
+				},
+				{
+					"option": "Smell",
+					"isCorrect": true
+				},
+				{
+					"option": "Regeneration"
+				}
+			],
+			"id": "fb9646e3-74cf-496b-878f-5498c434e549"
+		},
+		{
+			"question": "The standard unit of measurement for energy is ______ .",
+			"options": [
+				{
+					"option": "Calorie"
+				},
+				{
+					"option": "Watt"
+				},
+				{
+					"option": "Metre"
+				},
+				{
+					"option": "Joule",
+					"isCorrect": true
+				}
+			],
+			"id": "b6f65284-f385-462b-bf89-651226393181"
+		},
+		{
+			"question": "Which biologist proposed the theory of evolution through natural selection ?",
+			"options": [
+				{
+					"option": "George Cuvier"
+				},
+				{
+					"option": "Jean-Baptiste Lamarck"
+				},
+				{
+					"option": "Charles Darwin",
+					"isCorrect": true
+				},
+				{
+					"option": "Alfred Russel Wallace"
+				}
+			],
+			"id": "3c492181-050b-43e7-b3d6-6c8d51e5708d"
+		},
+		{
+			"question": "Which two parts of you body continue to grow for your entire life ?",
+			"options": [
+				{
+					"option": "Nose and Ears",
+					"isCorrect": true
+				},
+				{
+					"option": "Ears and Eyes"
+				},
+				{
+					"option": "Nose and Eyes"
+				},
+				{
+					"option": "Eyes and Teeth"
+				}
+			],
+			"id": "af8f02e2-2679-452a-8265-bc75848bd77e"
+		},
+		{
+			"question": "The outward force , away from the center , felt by an object in circular motion is _____ .",
+			"options": [
+				{
+					"option": "Centrifugal force",
+					"isCorrect": true
+				},
+				{
+					"option": "Centripetal force"
+				},
+				{
+					"option": "Physical force"
+				},
+				{
+					"option": "Circular force"
+				}
+			],
+			"id": "1b880090-68b2-4edf-9e89-9a45c5d6e1bc"
+		},
+		{
+			"question": "What type of energy eventually depletes ?",
+			"options": [
+				{
+					"option": "Renewable energy"
+				},
+				{
+					"option": "Motion energy"
+				},
+				{
+					"option": "Non-renewable energy",
+					"isCorrect": true
+				},
+				{
+					"option": "Alternative energy"
+				}
+			],
+			"id": "9b473085-f738-4ca4-9060-f3372b2db8b8"
+		},
+		{
+			"question": "Which is the closest planet to the sun ?",
+			"options": [
+				{
+					"option": "Mars"
+				},
+				{
+					"option": "Earth"
+				},
+				{
+					"option": "Venus"
+				},
+				{
+					"option": "Mercury",
+					"isCorrect": true
+				}
+			],
+			"id": "5270698b-999f-4331-8f67-c73cc618b27d"
+		},
+		{
+			"question": "How old is the Earth ?",
+			"options": [
+				{
+					"option": "4.4 Billion Years"
+				},
+				{
+					"option": "2.34 Billion Years"
+				},
+				{
+					"option": "4.5 Billion Years",
+					"isCorrect": true
+				},
+				{
+					"option": "4.6 Billion Years"
+				}
+			],
+			"id": "7f9f1b24-af3e-42ff-ab2e-cc183c07d113"
+		},
+		{
+			"question": "What is the botanical name of Tomato ? ",
+			"options": [
+				{
+					"option": "Brassica oleracea"
+				},
+				{
+					"option": "Ocimum tenuiflorum"
+				},
+				{
+					"option": "Pisum sativum"
+				},
+				{
+					"option": "Solanum tycopersicum",
+					"isCorrect": true
+				}
+			],
+			"id": "01eda4d2-0c21-4249-bdad-43deed1c8b27"
+		},
+		{
+			"question": "I have dry , scaly skin , breathe with lungs and lay shelled eggs. Who am I ?",
+			"options": [
+				{
+					"option": "Fish"
+				},
+				{
+					"option": "Amphibian"
+				},
+				{
+					"option": "Mammals"
+				},
+				{
+					"option": "Reptiles",
+					"isCorrect": true
+				}
+			],
+			"id": "2dae5b75-da37-4aff-82e3-d50e6e8b8e12"
+		},
+		{
+			"question": "What are the products of anaerobic respiration in yeast ? ",
+			"options": [
+				{
+					"option": "Ethyl Alcohol and Carbon dioxide",
+					"isCorrect": true
+				},
+				{
+					"option": "Only Carbon dioxide"
+				},
+				{
+					"option": "Ethyl Alcohol and Oxygen"
+				},
+				{
+					"option": "Only Ethyl Alcohol"
+				}
+			],
+			"id": "48dad042-f0c6-4046-a8f7-929912ad1966"
+		},
+		{
+			"question": "Which animal never drinks water in its entire life ?",
+			"options": [
+				{
+					"option": "Kangaroo rat",
+					"isCorrect": true
+				},
+				{
+					"option": "Kangaroo"
+				},
+				{
+					"option": "Chicken "
+				},
+				{
+					"option": "Rat"
+				}
+			],
+			"id": "13f2efa0-efc7-464d-a9cf-c7c42f661164"
+		},
+		{
+			"question": "The largest cell is _______",
+			"options": [
+				{
+					"option": "The egg of ostrich",
+					"isCorrect": true
+				},
+				{
+					"option": "Ovum"
+				},
+				{
+					"option": "Nerve cell"
+				},
+				{
+					"option": "None of the above"
+				}
+			],
+			"id": "d23efbcf-0eeb-4337-88d0-6cf2c234f728"
+		},
+		{
+			"question": "Which is the largest human cell ?",
+			"options": [
+				{
+					"option": "Ovum",
+					"isCorrect": true
+				},
+				{
+					"option": "Liver"
+				},
+				{
+					"option": "Skin"
+				},
+				{
+					"option": "Spleen"
+				}
+			],
+			"id": "8f6be324-ded7-4410-9cc3-31f3338ce592"
+		},
+		{
+			"question": "Which is the longest cell in the human body ?",
+			"options": [
+				{
+					"option": "Nerve Cell",
+					"isCorrect": true
+				},
+				{
+					"option": "Skin"
+				},
+				{
+					"option": "Spleen "
+				},
+				{
+					"option": "None of the above"
+				}
+			],
+			"id": "c14f9225-3eb8-4030-a18f-62aa99f60bb5"
+		},
+		{
+			"question": "What is the lifespan of RBC ? ",
+			"options": [
+				{
+					"option": "120 days",
+					"isCorrect": true
+				},
+				{
+					"option": "130 days"
+				},
+				{
+					"option": "110 days "
+				},
+				{
+					"option": "100 days"
+				}
+			],
+			"id": "c2f64dc8-e194-422e-8125-d2e387e76bae"
+		},
+		{
+			"question": "What is the lifespan of WBC ? ",
+			"options": [
+				{
+					"option": "2 - 15 days",
+					"isCorrect": true
+				},
+				{
+					"option": "3 - 15 days"
+				},
+				{
+					"option": "4 - 16 days "
+				},
+				{
+					"option": "5 - 20 day"
+				}
+			],
+			"id": "ed96bb37-2080-4013-9e4b-a7f9f3e18c95"
+		},
+		{
+			"question": "How many types of nutrients are there ? ",
+			"options": [
+				{
+					"option": "5",
+					"isCorrect": true
+				},
+				{
+					"option": "4"
+				},
+				{
+					"option": "6"
+				},
+				{
+					"option": "3"
+				}
+			],
+			"id": "615c771f-522e-4188-a5f0-9e87b11239d2"
+		},
+		{
+			"question": "In our solar system , how many moon does planet Mars have ? ",
+			"options": [
+				{
+					"option": "2",
+					"isCorrect": true
+				},
+				{
+					"option": "1 "
+				},
+				{
+					"option": "3"
+				},
+				{
+					"option": "None"
+				}
+			],
+			"id": "ed4b640d-8d40-47d9-a2c2-76b2a76912ee"
+		},
+		{
+			"question": "How many colors does a ray of white light consist of ?",
+			"options": [
+				{
+					"option": "7",
+					"isCorrect": true
+				},
+				{
+					"option": "8"
+				},
+				{
+					"option": "6"
+				},
+				{
+					"option": "10"
+				}
+			],
+			"id": "521e7bbf-c16c-4014-af07-77423455ab2f"
+		},
+		{
+			"question": "What is the full of UPS in a computer ?",
+			"options": [
+				{
+					"option": "Uninterruptable Power Supply",
+					"isCorrect": true
+				},
+				{
+					"option": "Ultra Power System"
+				},
+				{
+					"option": "Universal Power Supply"
+				},
+				{
+					"option": "Under Power Supply"
+				}
+			],
+			"id": "9f6104a8-86df-4e52-b33d-9421aa857f19"
+		},
+		{
+			"question": "Name the vegetable which is also known as a flow ? ",
+			"options": [
+				{
+					"option": "Broccoli",
+					"isCorrect": true
+				},
+				{
+					"option": "Cauliflower"
+				},
+				{
+					"option": "Tomato"
+				},
+				{
+					"option": "Banana"
+				}
+			],
+			"id": "18b817c1-ea10-45f6-b758-f4180f640837"
+		},
+		{
+			"question": "What is the height of Mt. Everest ? ",
+			"options": [
+				{
+					"option": "8848.86 m",
+					"isCorrect": true
+				},
+				{
+					"option": "8848 m "
+				},
+				{
+					"option": "8849 m"
+				},
+				{
+					"option": "8848.68 m"
+				}
+			],
+			"id": "d5a20dd4-4a56-4a6f-81d3-501ec98fffc6"
+		},
+		{
+			"question": "Which planet is commonly known as dwarf planet ?",
+			"options": [
+				{
+					"option": "Pluto",
+					"isCorrect": true
+				},
+				{
+					"option": "Uranus"
+				},
+				{
+					"option": "Mercury"
+				},
+				{
+					"option": "Venus"
+				}
+			],
+			"id": "830d2919-b358-4a14-aa41-40db8aa5ee66"
+		},
+		{
+			"question": "Celsius and Fahrenheit scale show the same temperature at ______ . ",
+			"options": [
+				{
+					"option": "-40",
+					"isCorrect": true
+				},
+				{
+					"option": "-39.371"
+				},
+				{
+					"option": "-20"
+				},
+				{
+					"option": "-41.23"
+				}
+			],
+			"id": "8a32c31a-a79a-4869-90c8-cb8b7b01e0ea"
+		},
+		{
+			"question": "The ozone layer lies in the ________",
+			"options": [
+				{
+					"option": "Stratosphere",
+					"isCorrect": true
+				},
+				{
+					"option": "Mesosphere"
+				},
+				{
+					"option": "Trophosphere"
+				},
+				{
+					"option": "Thermosphere"
+				}
+			],
+			"id": "9c3d139c-48c7-4b4c-843a-c236113d08fb"
+		},
+		{
+			"question": "Which is the largest blood vessel in the body ? ",
+			"options": [
+				{
+					"option": "Aorta",
+					"isCorrect": true
+				},
+				{
+					"option": "Alveoli"
+				},
+				{
+					"option": "Capillary"
+				},
+				{
+					"option": "Artery"
+				}
+			],
+			"id": "2ff26728-e2dd-4f49-bca8-a05ec8758af1"
+		},
+		{
+			"question": "Which of the following carries impure blood ?",
+			"options": [
+				{
+					"option": "Pulmonary Artery",
+					"isCorrect": true
+				},
+				{
+					"option": "Pulmonary Vein"
+				},
+				{
+					"option": "Alveoli"
+				},
+				{
+					"option": "Aorta"
+				}
+			],
+			"id": "69c7df05-18fa-4472-9a4b-6f7146ecaab0"
+		},
+		{
+			"question": "Thermometer was made first by _______ .",
+			"options": [
+				{
+					"option": "Gauss",
+					"isCorrect": true
+				},
+				{
+					"option": "Sir Isaac Newton"
+				},
+				{
+					"option": "Albert Einstein "
+				},
+				{
+					"option": "Pascal"
+				}
+			],
+			"id": "fcf5a629-5a3a-448d-a189-5e08b0b49886"
+		},
+		{
+			"question": "Lack of Iodine causes _______ . ",
+			"options": [
+				{
+					"option": "Goiter",
+					"isCorrect": true
+				},
+				{
+					"option": "Tuberculosis"
+				},
+				{
+					"option": "Cancer"
+				},
+				{
+					"option": "Tonsils"
+				}
+			],
+			"id": "dfd6fdc9-db3e-4eda-8a20-f6782a667d71"
+		},
+		{
+			"question": "Roughage is also called ______ .",
+			"options": [
+				{
+					"option": "Dietary Fibres",
+					"isCorrect": true
+				},
+				{
+					"option": "Diet"
+				},
+				{
+					"option": "Balanced Diet"
+				},
+				{
+					"option": "Water"
+				}
+			],
+			"id": "a4895112-e88c-4228-90c1-7f14b061f9db"
+		}
+	]
 }

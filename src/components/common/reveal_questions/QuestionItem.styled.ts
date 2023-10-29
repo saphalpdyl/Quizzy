@@ -12,6 +12,7 @@ export const QuestionContainer = styled.div`
 	& img {
 		border: 10px solid var(--front);
 		box-shadow: 0px 0px 10px black;
+		object-fit: cover;
 	}
 `;
 

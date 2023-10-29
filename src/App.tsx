@@ -46,4 +46,12 @@ const App = () => {
 	);
 };
 
+// import installFromnewState() {
+// 	return (
+// 		<div>
+// 			Hello World
+// 		</div>
+// 	)
+// }
+
 export default App;
