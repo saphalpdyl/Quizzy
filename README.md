@@ -1,12 +1,28 @@
-# Quiz_App_2
+# Quizzy
+
+Quizzy , coded in 2021 , is a web app designed for interactive online quiz competitions for middle school students.  The app constitutes of five rounds : ticket , number , visual , audio ,and travel. The question data is stored in a json file and served through `json-web-server`. There are 6 endpoints :
+
+- /ticket
+- /number
+- /visual
+- /travel
+- /audio
+- /add (To add quizzes for ticket and number round)
 
 ### Get started
 
-``` 
+```bash
 npm i 
 npm run dev
 npm run json
 ```
+
+### Tech Stack
+- NodeJS
+- Typescript
+- React
+- Redux
+- SCSS
 
 ### Dependencies
 
@@ -18,21 +34,17 @@ npm run json
 - `styled-components`
 - `react-redux`
 
-### ScreenShots
-`Main Page Unanswered` 
-
+## Main Page 
 ![main](https://user-images.githubusercontent.com/69297872/127965353-65560a52-27cf-4d1f-9952-53f3b7b505b8.jpeg)
 
-`Main Page Answered` 
-
+## Main Page Interacted
 ![main-answered](https://user-images.githubusercontent.com/69297872/127965374-94cf77fe-6b35-4041-ac26-8b027ce94412.jpeg)
 
-`Audio Page` 
-![audio](https://user-images.githubusercontent.com/69297872/127965395-340282c8-af53-4135-b2a3-c97cf974d484.jpeg)
-
-`Travel Page ` 
-
+## Travel Page
 ![travel](https://user-images.githubusercontent.com/69297872/127965546-3d6009dc-2437-49dd-a321-207fb8d1d0d2.jpeg)
+
+## Audio Page
+![audio](https://user-images.githubusercontent.com/69297872/127965395-340282c8-af53-4135-b2a3-c97cf974d484.jpeg)
 
 ## File Structure / Tree
 <pre>
@@ -130,4 +142,6 @@ root
                 globalVariables.min.css
                 globalVariables.min.css.map
 </pre>
-### Made with ♥ by Cheyatz
+
+**Copyright (C) 2023 | saphalpdyl**
+### Made with ♥ by Saphal
